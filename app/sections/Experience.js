@@ -17,7 +17,7 @@ const jobs = [
   },
   {
     company: 'Capgemini',
-    role: 'Senior Consultant -> Consultant',
+    role: 'Consultant -> Senior Consultant',
     period: 'Dec 2020 - Oct 2023',
     duration: '~3 yrs',
     location: 'Mumbai, India',
@@ -32,7 +32,7 @@ const jobs = [
   },
   {
     company: 'Mphasis',
-    role: 'Senior Software Developer -> Software Developer',
+    role: 'Software Developer -> Senior Software Developer',
     period: 'Aug 2018 - Nov 2020',
     duration: '~2.5 yrs',
     location: 'Mumbai, India',
@@ -47,7 +47,7 @@ const jobs = [
   },
   {
     company: 'Infosys',
-    role: 'Senior System Engineer -> System Engineer',
+    role: 'System Engineer -> Senior System Engineer',
     period: 'Sep 2015 - Aug 2018',
     duration: '3 yrs',
     location: 'Mysuru -> Pune, India',
